@@ -1,5 +1,5 @@
 print("Hello World")
-print("Make changes")
+print("Make change")
 
 for i in range(1,6):
     print(i)
